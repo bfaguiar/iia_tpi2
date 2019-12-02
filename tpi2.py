@@ -1,5 +1,5 @@
-# Aluno: Bruno Filipe Oliveira Aguiar
-#N.Mecanografico: 80177
+#Bruno Filipe Oliveira Aguiar
+# brunoaguiar@ua.pt
 from semantic_network import *
 from bayes_net import *
 
